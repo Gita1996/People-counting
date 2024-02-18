@@ -1,4 +1,4 @@
-We used Yolov7 model to detect persons in an image.
+We used Yolov7 model to detect persons in an image and count them. For example, for the following image, it return 14.
 
 ![people2](https://github.com/Gita1996/People-counting/assets/73386953/2affa7de-e13f-4040-bec5-ee78ecf6f72a)
 
